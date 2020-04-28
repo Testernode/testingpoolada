@@ -4,7 +4,7 @@
 
 ### My Stakepool
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Reliable ADA Stake Pool available 24x7
