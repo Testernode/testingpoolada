@@ -6,7 +6,7 @@
 
 
 
-```markdown
+
 Reliable ADA Stake Pool available 24x7
 
 Ticker: TPOOL
