@@ -1,4 +1,4 @@
-## Welcome to my shelley tncentivized testnet
+## Welcome to my shelley incentivized testnet
 
 
 
