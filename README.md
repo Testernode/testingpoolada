@@ -1,17 +1,17 @@
-## Welcome to my shelley incentivized testnet
+## Welcome to my shelley testnet
 
 
 
-### My Stakepool
+### Best Slovenian Stakepool
 
 
 
 
 Reliable ADA Stake Pool available 24x7
 
-Ticker: TPOOL
+Ticker: GOSLO
 
-Fee:    10 %
+Fee:    5 %
 
-ID:  dd43073a65e9efb56a75717bb9eb44b484b434d146aab1261cfeac148adcb349
+ID:  9d8935040f813986e6e4981c07a71315437549114858dde9e0f264f8
     
