@@ -13,5 +13,5 @@ Ticker: GOSLO
 
 Fee:   0 %
 
-ID:  b8f8557a1dea282071d8d86388ccc6f46a791a0bf6a9ab2234c20d30
+ID:  50ec1c61547baef8efd5fb3a0bce4759cbcdf72a62948022834d7cf2
     
