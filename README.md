@@ -22,4 +22,4 @@ ID:  50ec1c61547baef8efd5fb3a0bce4759cbcdf72a62948022834d7cf2
 
 
 Brave browser|Secure, Fast & Private Web Browser with adblocker: <a>https://brave.com/yrv428<a> 
-    <a href=“https://brave.com/yrv428”>cider spices</a>.
+(https://brave.com/yrv428)
