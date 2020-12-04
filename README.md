@@ -11,7 +11,7 @@ Reliable ADA Stake Pool available 24x7
 
 Ticker: GOSLO
 
-Fee:   0 %
+Fee:   1 %
 
 ID:  50ec1c61547baef8efd5fb3a0bce4759cbcdf72a62948022834d7cf2
     
