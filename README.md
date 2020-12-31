@@ -6,15 +6,15 @@
 
 Dear delegators. Welcome to GOSLO pool 😊 Our pool mission 👉 Cardano network's decentralization 👍💪 If you have any question you can contact us:
 
--Twitter https://twitter.com/GosloPool 
+-Twitter <a href="https://twitter.com/GosloPool" title="About Me">https://twitter.com/GosloPool</a>
 
--Telegram @JanGOSLOPool
+-Telegram <a href="https://t.me/JanGOSLOPool" title="About Me">@JanGOSLOPool</a>
 
 委任者の皆様へ GOSLOプールへようこそ😊私たちのプールミッション 👉 カルダノネットワークの分散化 👍💪ご不明な点がございましたら、お気軽にお問い合わせください。
 
 -Twitter <a href="https://twitter.com/GosloPool" title="About Me">https://twitter.com/GosloPool</a>
 
--Telegram @JanGOSLOPool
+-Telegram <a href="https://t.me/JanGOSLOPool" title="About Me">@JanGOSLOPool</a>
 
 
 Reliable ADA Stake Pool available 24x7
