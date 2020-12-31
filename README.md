@@ -7,6 +7,7 @@
 Dear delegators. Welcome to GOSLO pool 😊 Our pool mission 👉 Cardano network's decentralization 👍💪 If you have any question you can contact us: 
 -Twitter https://twitter.com/GosloPool 
 -Telegram @JanGOSLOPool
+
 委任者の皆様へ GOSLOプールへようこそ😊私たちのプールミッション 👉 カルダノネットワークの分散化 👍💪ご不明な点がございましたら、お気軽にお問い合わせください。
 -Twitter https://twitter.com/GosloPool 
 -Telegram @JanGOSLOPool
