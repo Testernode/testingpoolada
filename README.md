@@ -1,10 +1,10 @@
-## Welcome to my shelley mainnet
+## Welcome to my mainnet pool
 
 
 
 ### Best Slovenian Stakepool
 
-Dear delegators. Welcome to GOSLO pool 😊 Our pool mission 👉 Cardano network's decentralization 👍💪 If you have any question you can contact us:
+Dear delegators. Welcome to LAKE pool 😊 Our pool mission 👉 Cardano network's decentralization 👍💪 If you have any question you can contact us:
 
 -Twitter <a href="https://twitter.com/GosloPool" title="About Me">https://twitter.com/GosloPool</a>
 
@@ -19,11 +19,11 @@ Dear delegators. Welcome to GOSLO pool 😊 Our pool mission 👉 Cardano networ
 
 Reliable ADA Stake Pool available 24x7
 
-Ticker: GOSLO
+Ticker: LAKE
 
-Fee:   1 %
+Fee:   2 %
 
-ID:  50ec1c61547baef8efd5fb3a0bce4759cbcdf72a62948022834d7cf2
+ID:  abcd27d5ee8f838e24cdb8653cbe309a86d7a4c48576ac3e0893a810
     
 
 
