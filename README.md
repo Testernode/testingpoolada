@@ -10,7 +10,7 @@ Dear delegators. Welcome to LAKE pool 😊 Our pool mission 👉 Cardano network
 
 -Telegram <a href="https://t.me/JanGOSLOPool" title="About Me">@JanGOSLOPool</a>
 
-委任者の皆様へ GOSLOプールへようこそ😊私たちのプールミッション 👉 カルダノネットワークの分散化 👍💪ご不明な点がございましたら、お気軽にお問い合わせください。
+委任者の皆様へ LAKEプールへようこそ😊私たちのプールミッション 👉 カルダノネットワークの分散化 👍💪ご不明な点がございましたら、お気軽にお問い合わせください。
 
 -Twitter <a href="https://twitter.com/GosloPool" title="About Me">https://twitter.com/GosloPool</a>
 
